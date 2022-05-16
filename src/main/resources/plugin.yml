@@ -1,0 +1,7 @@
+name: DazumaTwitch
+version: '${version}'
+main: xyz.maquzo.dazumatwitch.DazumaTwitch
+api-version: 1.18
+authors: [ maquzo ]
+commands:
+  verify:
